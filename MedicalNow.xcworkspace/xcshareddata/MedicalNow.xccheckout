@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0EB69116-4048-4359-B3E4-4CAE3A0BA4A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MedicalNow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B8655F66-DFAD-4B22-A0F3-CEE996E247E3</key>
+		<string>https://github.com/danpalmer/MedicalNow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MedicalNow.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B8655F66-DFAD-4B22-A0F3-CEE996E247E3</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danpalmer/MedicalNow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B8655F66-DFAD-4B22-A0F3-CEE996E247E3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B8655F66-DFAD-4B22-A0F3-CEE996E247E3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MedicalNow</string>
+		</dict>
+	</array>
+</dict>
+</plist>

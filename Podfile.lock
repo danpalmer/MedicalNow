@@ -1,14 +1,17 @@
 PODS:
   - AFNetworking (1.3.1)
+  - MagicalRecord (2.1)
   - Orbiter (0.0.2):
     - AFNetworking (>= 0.9)
 
 DEPENDENCIES:
   - AFNetworking
+  - MagicalRecord
   - Orbiter
 
 SPEC CHECKSUMS:
   AFNetworking: 9ec8aafb9269236a7630bd8d9838ce2ba30fa2a0
+  MagicalRecord: 64e7184c240087a45e9588a722eaf05b0ad837f7
   Orbiter: f853037677963b15746b488badce8dad369fc6f4
 
 COCOAPODS: 0.22.1
